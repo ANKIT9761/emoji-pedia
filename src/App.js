@@ -9,6 +9,11 @@ export default function App() {
     "😂": "Face with Tears of Joy",
     "🙂": "Slightly Smiling Face",
     "🙃": "Upside-Down Face",
+    "😜": "Winking Face with Tongue",
+    "🤪": "Zany Face",
+    "😝": "Squinting Face with Tongue",
+    "🤑": "Money-Mouth Face",
+    "🤗": "Hugging Face",
   };
 
   var emojiDictionary = {
